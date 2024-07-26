@@ -112,6 +112,14 @@ function HomePage() {
               is available to assist you.
             </p>
           </div>
+          <div className='my-5 help-section'>
+            <h2 className='mb-4 section-heading text-center'>Need Help?</h2>
+            <p className='help-text text-center'>
+              updated by jishan If you have any questions or encounter issues during the application process,
+              please don't hesitate to <Link to='/contact'>contact us</Link>. Our support team
+              is available to assist you.
+            </p>
+          </div>
         </div>
       </div>
     </>
